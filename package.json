@@ -2,6 +2,7 @@
   "name": "simulaeleicoes",
   "description": "Um projeto de simulação de resultado das eleições",
   "author": "Quelvim uiliam Barreto dos Santos",
+  "homepage": "https://quelvim.github.io/simulaeleicoes",
   "private": true,
   "version": "1.0.0",
   "type": "module",
